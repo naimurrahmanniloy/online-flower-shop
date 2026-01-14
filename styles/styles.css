@@ -64,12 +64,29 @@
 }
 .pink-flower {
   background-color: rgba(167, 33, 98, 0.15);
+  border-radius: 50% 50% 0 0;
+  width: 464px;
+  height: 538px;
 }
 .pink-flower > img {
+  margin-top: 110px;
 }
+
 .red-flower {
   background-color: rgba(5, 151, 160, 0.15);
+  border-radius: 50% 50% 0 0;
+  width: 464px;
+  height: 538px;
+}
+.red-flower > img {
+  margin-top: 110px;
 }
 .yellow-flower {
   background-color: rgba(71, 125, 17, 0.15);
+  border-radius: 50% 50% 0 0;
+  width: 464px;
+  height: 538px;
+}
+.yellow-flower > img {
+  margin-top: 70px;
 }
