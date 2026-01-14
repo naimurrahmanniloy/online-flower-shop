@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.noto-sans {
+  font-family: "Noto Sans", sans-serif;
+}
+
+/* shared styles  */
+.btn {
+  background-color: #e55473;
+  border: none;
+  color: white;
+  padding: 20px 43px;
+  margin-top: 32px;
+  border-radius: 8px;
+  font-size: 20px;
+}
+
+/* header section starts here  */
+.header {
+  background-color: rgba(229, 84, 115, 0.1);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.header-content {
+  width: 708px;
+}
+.header-content > h1 {
+  font-size: 70px;
+  color: #272727;
+  font-weight: 900;
+}
+.header-content > p {
+  margin-top: 32px;
+  color: rgba(39, 39, 39, 0.6);
+  font-size: 18px;
+}
